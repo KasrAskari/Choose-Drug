@@ -25,7 +25,7 @@ Choose-Drug/
   - seaborn  
 
 ## Acknowledgments  
-- Dataset: [Kaggle - Choose Drug](https://www.kaggle.com/datasets/taranomtorabi/drug200)
+- Dataset: [Kaggle - drug200](https://www.kaggle.com/datasets/taranomtorabi/drug200)
 
 ## License  
 This project is licensed under the MIT License.
