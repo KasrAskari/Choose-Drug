@@ -1,31 +1,31 @@
-# Choose-Drug  
+# 💊 Choose-Drug  
 
 ## Overview  
-This project focuses on helping to choose the right drug for a patient using a **Decision Tree Classifier**. It predicts the most suitable medication based on patient data. The dataset used in this project is sourced from Kaggle and contains information about various drugs and their uses.
+The **Choose-Drug** project leverages machine learning to recommend the most suitable medication for patients based on their characteristics. Using a **Decision Tree Classifier**, the model predicts the best drug by analyzing key patient features such as age, gender, and symptoms.  
 
 ## Features  
-- **Drug Recommendation:** Predicts the most suitable medication for patients based on features like age, gender, and symptoms.  
-- **Machine Learning Model:** Implements a decision tree classifier for accurate predictions.  
-- **Dataset:** Uses the `drug200` dataset for training the model.  
+✅ **Smart Drug Recommendation** – Predicts the best medication based on patient data.  
+✅ **Machine Learning Model** – Utilizes a **Decision Tree Classifier** for accurate predictions.  
+✅ **Data-Driven Insights** – Based on the `drug200` dataset, containing real-world pharmaceutical data.  
 
-## Project Structure  
+## 📁 Project Structure  
 ```
 Choose-Drug/
 ├── drug200.csv            # Dataset used for training the model
-├── Choose_Drug.ipynb      # Jupyter notebook containing the implementation and analysis
+├── Choose_Drug.ipynb      # Jupyter Notebook with implementation and analysis
 └── README.md              # Project documentation
 ```
 
-## Technologies Used  
-- **Programming Language:** Python  
+## 🔧 Technologies Used  
+- **Python** – Core programming language.  
 - **Libraries:**  
-  - pandas  
-  - scikit-learn  
-  - matplotlib  
-  - seaborn  
+  - `pandas` – Data manipulation and preprocessing.  
+  - `scikit-learn` – Machine learning model implementation.  
+  - `matplotlib` & `seaborn` – Data visualization.  
 
-## Acknowledgments  
-- Dataset: [Kaggle - drug200](https://www.kaggle.com/datasets/taranomtorabi/drug200)
+## 📜 Dataset  
+- Source: [Kaggle - Drug200](https://www.kaggle.com/datasets/taranomtorabi/drug200)  
+- Contains patient attributes such as age, gender, and medical conditions, helping train the model for drug classification.  
 
-## License  
-This project is licensed under the MIT License.
+## 📄 License  
+This project is open-source and licensed under the **MIT License**.  
